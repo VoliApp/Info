@@ -12,5 +12,4 @@ When? idk, when I have time. I'm currently maintaining Talon and Ruby (Peroxaan 
 have school now. You'll be able to see the progress in here (and maybe I'll set up GitHub Actions to compile a 
 debug APK everytime I finish a feature so you can test everything early c;)
 
-Questions? You can reach me in my Twitter DMs or Telegram (or Discord in case we have a mutual server because I 
-don't think Discord lets users just randomly message someone who doesn't have anything in common?)
+Questions? You can reach me in my Twitter DMs or Telegram, or join the [Alles Discord Server](https://alles.link/discord).
