@@ -5,7 +5,7 @@ What? Uhm, yeah, I'll revive, remake and rebrand the unofficial Alles Micro I wa
 Why?
 
 - In the past months I've learned A LOT about Android development, it'd be just a pain to be refactoring code so 
-I'd rather make everything from scratch
+I'd rather make everything from scratch (or maybe I make it in Flutter?, idk, I'm still figuring things out)
 - This name seemed cooler and more original than the previous one
 
 When? idk, when I have time. I'm currently maintaining Talon and Ruby (Peroxaan apps) for Android, and also I 
