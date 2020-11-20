@@ -1,6 +1,6 @@
 # Voli
 
-What? Uhm, yeah, I'll revive, remake and rebrand the unofficial Alles Micro I was making a few months ago. 
+What? Uhm, yeah, I'll revive, remake and rebrand the unofficial Alles Micro I was making a few months ago. This is the organization that I'm going to use to publish the source code. Currently there are no public repos but once there's a version worth publishing, the source code will be public :)
 
 Why?
 
